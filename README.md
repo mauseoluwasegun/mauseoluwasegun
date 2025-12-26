@@ -96,8 +96,8 @@ This project mirrors **real-world MLOps engineering practices** used in producti
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="260" />
 </p>
 
-- **GitHub:** https://github.com/your-username  
-- **LinkedIn:** https://linkedin.com/in/your-profile  
+- **GitHub:** https://github.com/mauseoluwasegun
+- **LinkedIn:** https://www.linkedin.com/in/mause-iroko-510921323/
 
 ---
 
