@@ -1,7 +1,7 @@
 # 👋 Hi, I'm an MLOps Engineer
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VhN3M2YjJtMWo2MWR5bXR5Z3U5dXZpZXV6cGN6dDVrZ3l0b2Z6YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMt9638dO8dftAjtco/giphy.gif" width="420" />
+  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="420" />
 </p>
 
 I am an **MLOps Engineer** specializing in building **end-to-end, production-grade machine learning systems**.  
@@ -12,7 +12,7 @@ My focus is on **automation, reproducibility, scalability, and operational excel
 ## 🧠 Core Competencies
 
 <p align="right">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="280" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="280" />
 </p>
 
 - End-to-end MLOps pipeline design
@@ -93,7 +93,7 @@ This project mirrors **real-world MLOps engineering practices** used in producti
 ## 📫 Connect
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="260" />
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="260" />
 </p>
 
 - **GitHub:** https://github.com/your-username  
