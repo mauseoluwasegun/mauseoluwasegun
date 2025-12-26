@@ -1,16 +1,104 @@
-## Hi there 👋
+# 👋 Hi, I'm an MLOps Engineer
 
-<!--
-**mauseoluwasegun/mauseoluwasegun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VhN3M2YjJtMWo2MWR5bXR5Z3U5dXZpZXV6cGN6dDVrZ3l0b2Z6YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMt9638dO8dftAjtco/giphy.gif" width="420" />
+</p>
 
-Here are some ideas to get you started:
+I am an **MLOps Engineer** specializing in building **end-to-end, production-grade machine learning systems**.  
+My focus is on **automation, reproducibility, scalability, and operational excellence** across the ML lifecycle.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Core Competencies
+
+<p align="right">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="280" />
+</p>
+
+- End-to-end MLOps pipeline design
+- Model lifecycle management
+- CI/CD for ML systems
+- Infrastructure orchestration
+- Production deployment & monitoring
+
+---
+
+## 🛠️ Technology Stack
+
+### Machine Learning & Experimentation
+- **Python**
+- **Scikit-learn**
+- **MLflow** (tracking, registry)
+- **DVC** (data & model versioning)
+
+### APIs & Services
+- **FastAPI**
+- RESTful ML microservices
+
+### DevOps & Infrastructure
+- **Docker**
+- **Kubernetes**
+- **CI/CD (GitHub Actions)**
+- Linux environments
+
+---
+
+## 🔄 MLOps Workflow
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="420" />
+</p>
+
+1. Data versioning with **DVC**
+2. Model training & experiment tracking via **MLflow**
+3. Model packaging as **FastAPI** service
+4. Containerization using **Docker**
+5. Deployment and scaling on **Kubernetes**
+6. Automated CI/CD pipelines
+
+---
+
+## 🚀 Featured Project
+
+### **End-to-End MLOps Pipeline for Disease Prediction**
+
+<p align="right">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="300" />
+</p>
+
+A production-ready ML system demonstrating the **full ML lifecycle**.
+
+**Highlights:**
+- Random Forest model (Scikit-learn)
+- MLflow for experiment tracking & model registry
+- DVC for dataset and artifact versioning
+- FastAPI inference service
+- Dockerized microservice
+- Kubernetes-based scalable deployment
+- CI/CD automation
+
+This project mirrors **real-world MLOps engineering practices** used in production environments.
+
+---
+
+## 📈 Engineering Focus
+
+- Production reliability over experimentation-only ML
+- Infrastructure-as-code mindset
+- Monitoring, retraining, and reproducibility
+- Strong collaboration between ML and DevOps workflows
+
+---
+
+## 📫 Connect
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="260" />
+</p>
+
+- **GitHub:** https://github.com/your-username  
+- **LinkedIn:** https://linkedin.com/in/your-profile  
+
+---
+
+⭐ If you find my work useful, consider starring or forking the repositories.
